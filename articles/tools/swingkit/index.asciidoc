@@ -11,6 +11,8 @@ include::{articles}/_commercial-banner.asciidoc[opts=optional]
 
 The prime use case for this tool is to approach _Swing to Vaadin modernization_ in a non-invasive way, which allows the codebase to be transitioned gradually into Vaadin upgrading single views.
 
+An application demo can be found on the https://github.com/vaadin/swing-kit[Swing Kit public repository]
+
 == Requirements
 
 The following few items are required for utilizing the Swing Kit:
