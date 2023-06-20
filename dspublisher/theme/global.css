@@ -144,7 +144,7 @@ dspublisher-header #haas-container {
 }
 
 [class*='menuItem'].commercial:not(.incomplete) > div > a::after {
-  content: 'PRO';
+  content: '$';
   display: inline-block;
   border-radius: 1em;
   vertical-align: middle;
